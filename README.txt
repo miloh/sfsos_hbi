@@ -9,10 +9,8 @@ references
 	sanborn.maptcha.org	similiar to the above 
 
 
-
 data resources
 	sfdbi.org/index.aspx?page=218
-
 
 
 	structure:   use some gnu tools to scrape the sfdbi site
